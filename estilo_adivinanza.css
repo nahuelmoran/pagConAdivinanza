@@ -1,0 +1,30 @@
+#titleAdivinanza{
+    padding-top: 100px;
+    text-align: center;
+    text-decoration: underline;
+    font-weight: bold;
+    color: cornflowerblue;
+}
+.cuerpoAdivinanza{
+    color: aliceblue;
+    background-color: black;
+}
+#question{
+    
+    padding-top: 30px;
+}
+.questionInput{
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+#resultado{
+    text-align: center;
+    font-size:xx-large;
+    color: cornflowerblue;
+}
+#intentos{
+    font-size:xx-large;
+    font-weight: bold;
+}
+
+

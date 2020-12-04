@@ -1,0 +1,17 @@
+.tabla{
+    border: 1px solid black;
+}
+th{
+    text-align: center;
+    vertical-align: top;
+    border: 1px solid #000;
+ }
+td{
+    width: 25%;
+    text-align: left;
+    vertical-align: top;
+    border: 1px solid #000;
+}
+.titletable{
+    text-align: center;
+}
